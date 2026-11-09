@@ -29,7 +29,7 @@ How to Run
 2. Run the Streamlit application:
    "streamlit run loan_str.py"
 3. Run the FastAPI server:
-   "uvicorn api:app --reload"
+   "uvicorn loan.py:app --reload"
 
 Project Goal
 
